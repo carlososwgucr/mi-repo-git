@@ -16,4 +16,4 @@ Para imprimir en Python usamos: `print()`
 def saludo():
     print("Hola Clase!")
 ````
-Este cambie resuleve la incidencia #2
+Este cambie resuleve la incidencia #4
