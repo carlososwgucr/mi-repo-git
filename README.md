@@ -20,4 +20,4 @@ def saludo ():
 print ("Hola Clase")
 ```
 
-Fixes #13
+Fixes https://github.com/carlososwgucr/mi-repo-git/issues/13 
