@@ -20,4 +20,4 @@ def saludo ():
 print ("Hola Clase")
 ```
 
-Este cambio resuelve la inciencia #13
+Fixes #13
