@@ -21,3 +21,9 @@ print ("Hola Clase")
 ```
 
 Fixes https://github.com/carlososwgucr/mi-repo-git/issues/13 
+
+| Tarea           | Estado        | Responsable     |
+|-----------------|--------------|-----------------|
+| Crear API       | En progreso   | Carlos          |
+| Diseñar UI      | Pendiente     | Ana             |
+| Pruebas         | Completado    | Luis            |
