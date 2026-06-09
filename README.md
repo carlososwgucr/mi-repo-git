@@ -1,19 +1,23 @@
-# Mi-repo-git
-## Bienvenido a este **increíble** tutorial.
-Aquí aprenderemos a usar *cursivas* y **negritas**.
+# Proyecto Demo de Markdown 
+Bienvenidos a este **increible** tutorial
+
+Aqui aprenderemos a usar *cursiva* y **negritas**
+
+## Seccion 1: Introduccion
 ### Pasos a seguir
 1. Instalar Git
-2. Configurar Usuario
-3. Crear un repositorio
-4. Crear un Archivo README
+2.  Configurar usuario
+
 ### Lista de compras
-- [ ] Comprar café
-- [X] Aprender Markdown
-- [ ] Aprobar el examen
-### Ejemplo de Código
+- [x] Comprar cafe
+- [x] Aprender Markdown
+- [ ] Aprobar examen
+
+### Ejemplo de codigo
 Para imprimir en Python usamos: `print()`
-```python
-def saludo():
-    print("Hola Clase!")
-````
-Este cambie resuleve la incidencia #4
+```pyhton
+def saludo ():
+print ("Hola Clase")
+```
+
+Este cambio resuelve la inciencia #1
